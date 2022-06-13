@@ -1,0 +1,12 @@
+O que é?
+App de banco de dados adaptados para necessidades comerciais
+
+> vantagens:
+varios tipos de relatórios; ja organiza e personaliza de acordo com o metodo de entrada da pesquisa;cria tabelas mais acertivas e complexas;
+
+> o que pode ser feito:
+gerencimento de contatos; acompanhamento de pedidos; controle de tarefas; organização de biblioteca etc.
+
+mascarar dados para padronizar a forma de digitar;
+
+
